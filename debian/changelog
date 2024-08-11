@@ -1,3 +1,10 @@
+nvidia-graphics-drivers-560 (560.31.02-0ubuntu0.24.04.1) noble; urgency=medium
+
+  * Non-maintainer upload.
+  * New upstream beta 560.31.02
+
+ -- Karen Dombroski <karen.dombroski@marsbioimaging.com>  Mon, 12 Aug 2024 09:58:12 +1200
+
 nvidia-graphics-drivers-560 (560.28.03-0ubuntu0.24.04.1) noble; urgency=medium
 
   * Non-maintainer upload.
